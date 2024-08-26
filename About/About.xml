@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>nukestar.pawnmorphergenes</packageId>
+    <name>Pawnmorpher Genes</name>
+    <author>nukestar</author>
+    <description>Adds some genes for pawnmorpher intgration</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+    <modDependencies>
+		<li>
+			<packageId>tachyonite.pawnmorpherpublic</packageId>
+			<displayName>Pawnmorpher</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1786466855</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+    <loadAfter>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>tachyonite.pawnmorpherpublic</li>
+	</loadAfter>
+
+</ModMetaData>
