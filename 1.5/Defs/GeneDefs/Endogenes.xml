@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneDef Name="InternalizedChimerism">
+        <biostatCpx>0</biostatCpx>
+        <endogeneCategory>None</endogeneCategory>
+        <displayCategory>Pawnmorpher</displayCategory>
+        <iconColor>(0.75, 0.75, 0.75)</iconColor>
+        <defName>Internalized_Chimerism</defName>
+        <label>Internalized Chimerism</label>
+        <description>Hides cosmetic changes of Pawnmorpher mutations.</description>
+    </GeneDef>
+
+</Defs>
